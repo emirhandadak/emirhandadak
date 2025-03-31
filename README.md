@@ -22,6 +22,12 @@ Yakında hepsi burada olacak, tetikte kalın! 🚧
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/m3SYKzhmod1IY/giphy.gif?cid=790b7611g8lpz6lsz87oxsqg7llwsvtycoo4namwvavvxyds&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+
+---
+
 ## 🌍 About Me (EN)
 
 Hey! I'm Emirhan — a third-year Computer Engineering student passionate about mobile development and clean code.  
@@ -32,6 +38,7 @@ I find joy in solving real problems, learning deeply, and creating things that a
 
 📌 My GitHub might look a bit empty now, but my laptop disagrees.  
 Soon, the repos will roll in. Stay tuned 👀
+
 
 ---
 
@@ -64,7 +71,7 @@ Soon, the repos will roll in. Stay tuned 👀
 
 ---
 
-## 📚 Öğreniyorum (TR)
+## 📚 Öğreniyorum / Currently Learning 
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge)
  
@@ -72,11 +79,6 @@ Bazen kayayı aynı yerden itiyorum gibi hissediyorum —
 ama sanırım artık nasıl itmem gerektiğini anlıyorum. 🪨💭
 
 ---
-
-## 📚 Currently Learning (EN)
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white&style=for-the-badge)
- 
 Some days feel like pushing the same rock again —  
 but I think I'm starting to understand *how* to push it better. 🪨💭
 
@@ -88,6 +90,10 @@ but I think I'm starting to understand *how* to push it better. 🪨💭
   <img src="https://github-readme-stats.vercel.app/api?username=emirhandadak&show_icons=true&theme=radical" />
 </p>
 
+---
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-28a745?style=for-the-badge&logo=linkedin&logoColor=white)
+![Learning Everyday](https://img.shields.io/badge/Learning-Everyday-blue?style=for-the-badge&logo=bookstack&logoColor=white)
+![Coffee Powered](https://img.shields.io/badge/Coffee-Powered-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
 ---
 
 ## 🔗 Reach Me
