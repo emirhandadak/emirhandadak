@@ -70,6 +70,13 @@ Soon, the repos will roll in. Stay tuned 👀
 
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/XK9bjsqvfPrUV0Ju9y/giphy.gif?cid=790b7611tqx1rs0lta931y7enemf3dfo3ktp5ub3xlgbse28&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</p>
+
+---
+
+
 
 ## 📚 Öğreniyorum / Currently Learning 
 
